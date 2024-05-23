@@ -1,2 +1,8 @@
-# eshg2024_poster
-Research poster and accompanying reference list for my ESHG 2024 poster session, covering my first PhD project: Investigating the Utility of Pharmaceutically Informed, Partitioned Type-2 Diabetes Mellitus Polygenic Scores in the UK Biobank.
+# ESHG 2024 Academic Research Poster
+
+This repo contains my research poster and accompanying reference list for my European Society of Human Genetics (ESHG) 2024 poster session, covering my first PhD project, titled:
+
+***Investigating the Utility of Pharmaceutically Informed, Partitioned Type-2 Diabetes Mellitus Polygenic Scores in the UK Biobank***
+
+Date:: 03/06/2024
+Location:: Berlin, Germany
